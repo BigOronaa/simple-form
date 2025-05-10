@@ -55,8 +55,8 @@ git commit -m "Initial commit for simple form"
 git push origin main
 
 ## Add images here
-![1](1.png)  
-![2](2.png)
+![Screenshot 1](1.png)
+![Screenshot 2](2.png)
 
 
 ## Making and Tracking Changes
@@ -75,8 +75,8 @@ git push origin main
 ```
 
 ## Add images here
-![3](./3.png)  
-![4](./4.png)
+![Screenshot 3](3.png)  
+![Screenshot 4](4.png)
 ---
 
 ## View Commit History
@@ -107,8 +107,8 @@ git push origin main
 
 
 ## Add images here
-![5](./5.png) 
-![6](./6.png)
+![Screenshot 5](5.png)
+![Screenshot 6](6.png)
 
 
 ##  Add a CAPTCHA Feature (Branching)
@@ -131,7 +131,7 @@ git commit -m "Added CAPTCHA feature"
 ```
 
 ## Add Images here
-![8](./8.png)
+![Screenshot 8](8.png)
 
 
 ##  Merge CAPTCHA Branch into Main
@@ -142,8 +142,8 @@ git merge feature-add-captcha
 ```
 
 ## Add images here
-![7](./7.png)  
-![9](./9.png)
+![Screenshot 7](7.png) 
+![Screenshot 9](9.png)
 
 ##  Push Merged Changes to GitHub
 
@@ -152,7 +152,7 @@ git push origin main
 ```
 
 ## Add images here
-![10](./10.png)
+![Screenshot 10](10.png)
 ---
 
 ## Undo Uncommitted Changes (Local Only)
@@ -163,7 +163,8 @@ If you made unwanted changes to `style.css` and haven't committed yet:
 git checkout -- style.css
 ```
 ## Add images here
-![11](./11.png)
+![Screenshot 11](11.png)
+
 
 ---
 
