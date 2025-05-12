@@ -85,7 +85,7 @@ git push origin main
 git log
 ```
 
-Screenshots:
+## I added screenshots:
 
 ![alt text](images/formupdate.png)
 ![alt text](images/gitupdate.png)
@@ -109,7 +109,7 @@ git commit -am "Revert form.html to previous working version"
 git push origin main
 ```
 
-Screenshot:
+## I added screenshot:
 
 ![alt text](images/gitrevert.png)
 
@@ -149,7 +149,7 @@ Then I pushed the merged changes:
 git push origin main
 ```
 
-Screenshots:
+## i added screenshots:
 
 ![alt text](images/addcaptcha.png)
 ![alt text](images/captchapush.png)
