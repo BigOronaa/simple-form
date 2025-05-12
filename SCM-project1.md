@@ -56,11 +56,10 @@ git push origin main
 
 ---
 
-## I Added Screenshots
+## I added screenshots
 
-> Screenshots related to my project will appear here:
+> ![alt text](images/clonerepo.png)
 
-![Clone Repo](images/clonerepo.png)
 
 ---
 
@@ -88,9 +87,9 @@ git log
 
 Screenshots:
 
-![Form Updated](images/formupdate.png)  
-![Git Update](images/gitupdate.png)  
-![Git Log](images/gitlog.png)
+![alt text](images/formupdate.png)
+![alt text](images/gitupdate.png)
+![alt text](images/gitlog.png)
 
 ---
 
@@ -112,7 +111,7 @@ git push origin main
 
 Screenshot:
 
-![Git Revert](images/gitrevert.png)
+![alt text](images/gitrevert.png)
 
 ---
 
@@ -152,8 +151,8 @@ git push origin main
 
 Screenshots:
 
-![Add CAPTCHA](images/addcaptcha.png)  
-![Push CAPTCHA](images/captchapush.png)
+![alt text](images/addcaptcha.png)
+![alt text](images/captchapush.png)
 
 ---
 
