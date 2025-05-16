@@ -58,7 +58,7 @@ git push origin main
 
 ## I added screenshots
 
-> ![alt text](images/clonerepo.png)
+> ![alt text](images/clonerepo.PNG)
 
 
 ---
@@ -87,9 +87,9 @@ git log
 
 ## I added screenshots:
 
-![alt text](images/formupdate.png)
-![alt text](images/gitupdate.png)
-![alt text](images/gitlog.png)
+![alt text](images/formupdate.PNG)
+![alt text](images/gitupdate.PNG)
+![alt text](images/gitlog.PNG)
 
 ---
 
@@ -111,7 +111,7 @@ git push origin main
 
 ## I added screenshot:
 
-![alt text](images/gitrevert.png)
+![alt text](images/gitrevert.PNG)
 
 ---
 
@@ -151,8 +151,8 @@ git push origin main
 
 ## i added screenshots:
 
-![alt text](images/addcaptcha.png)
-![alt text](images/captchapush.png)
+![alt text](images/addcaptcha.PNG)
+![alt text](images/captchapush.PNG)
 
 ---
 
